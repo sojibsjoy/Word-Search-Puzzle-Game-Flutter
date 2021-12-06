@@ -15,7 +15,7 @@ Play Mode Selection        |  Time Mode Selection     |  Play Board (5x5)
 
 Play Board (6x6)        |  Play Board (8x8)     |  Result Screen (With Celebration Effect)
 :-------------------------:|:-------------------------:|:-------------------------:
-<img src="ss/pic8.png" alt="Play Board (6x6)" height=400 />  |  <img src="ss/pic9.png" alt="Play Board (Puased)" height=400 />  |  <img src="ss/result.png" alt="Result Screen" height=400 />
+<img src="ss/pic8.png" alt="Play Board (6x6)" height=400 />  |  <img src="ss/pic9.png" alt="Play Board (Puased)" height=400 />  |  <img src="ss/pic11.png" alt="Result Screen" height=400 />
 <br>
 
 Settings Screen        |
