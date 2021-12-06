@@ -1,16 +1,24 @@
-# wordsearchpuzzle
+# Word Search Puzzle Game - Flutter<br>
+A word puzzle game with the amazing UI.<br>
+Output screens of the project:<br>
+Splash Screen        |  Home Screen     |  How To Play Dialog
+:-------------------------:|:-------------------------:|:-------------------------:
+<img src="ss/pic2.png" alt="Splash Screen" height=400 />  |  <img src="ss/pic1.png" alt="Home Page" height=400 />  |  <img src="ss/pic6.png" alt="How To Play Dialog" height=400 />
 
-A new Flutter project.
+<br>
 
-## Getting Started
+Play Mode Selection        |  Time Mode Selection     |  Play Board (5x5)
+:-------------------------:|:-------------------------:|:-------------------------:
+<img src="ss/pic3.png" alt="Play Mode Screen" height=400 />  |  <img src="ss/pic4.png" alt="Time Mode" height=400 />  |  <img src="ss/pic7.png" alt="Play Board (5x5)" height=400 />
 
-This project is a starting point for a Flutter application.
+<br>
 
-A few resources to get you started if this is your first Flutter project:
+Play Board (6x6)        |  Play Board (8x8)     |  Result Screen (With Celebration Effect)
+:-------------------------:|:-------------------------:|:-------------------------:
+<img src="ss/pic8.png" alt="Play Board (6x6)" height=400 />  |  <img src="ss/pic9.png" alt="Play Board (Puased)" height=400 />  |  <img src="ss/result.png" alt="Result Screen" height=400 />
+<br>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Settings Screen        |
+:-------------------------:|
+<img src="ss/pic10.png" alt="Settings Screen" height=400 />  |
+<br>
