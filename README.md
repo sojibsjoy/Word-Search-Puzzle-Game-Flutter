@@ -22,3 +22,4 @@ Settings Screen        |
 :-------------------------:|
 <img src="ss/pic10.png" alt="Settings Screen" height=400 />  |
 <br>
+APK link: https://drive.google.com/file/d/1lTamUtbHvKQLUEswTAu7869d66kSQUN9/view?usp=sharing
